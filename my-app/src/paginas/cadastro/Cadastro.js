@@ -17,6 +17,7 @@ class Cadastro extends React.Component {
             conteudo:valor
         })
     }
+    
     render(){
         return(
             <div className='cadastro'>
